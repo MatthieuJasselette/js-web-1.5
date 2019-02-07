@@ -1,3 +1,11 @@
+# Becode js-web-1.5
+Use your Google Images skills to collect a dozen of cat images.
+
+Display these cat images in your app one by one by cycling automatically every second. These images must be displayed in a 500x500 pixel square and should be resized and cropped automatically to fit in this space regardless of their original resolution or aspect-ratio. (Purposedly choosing images that all have the same resolution or aspect-ratio is considered cheating.)
+
+If you ever alter the aspect-ratio of an image to make it deformed we swear we will do this your car. (Or your bike if you don't have a car.)
+
+Lien vers la [github page](https://matthieujasselette.github.io/js-web-1.5/)
 
 # Becode Template for JavaScript Exercises
 
